@@ -1,4 +1,4 @@
-# Niirav213
+
 # Nirav Parmar
 
 Machine Learning Practitioner — B.Tech CS (AI), Manipal Institute of Technology
@@ -44,14 +44,15 @@ Machine Learning Practitioner — B.Tech CS (AI), Manipal Institute of Technolog
 
 ## Certifications
 
-- Exploratory Data Analysis for Machine Learning — *Coursera*
-- Python for Data Analysis: Pandas & NumPy — *Coursera*
-- Natural Language Processing and Computer Vision — *IBM SkillsBuild*
-- Introduction to Artificial Intelligence — *IBM SkillsBuild*
+- [Exploratory Data Analysis for Machine Learning — *Coursera*]
+- [Python for Data Analysis: Pandas & NumPy — *Coursera*]
+- [Natural Language Processing and Computer Vision — *IBM SkillsBuild*]
+- [Introduction to Artificial Intelligence — *IBM SkillsBuild]
 
 ---
 
 ## Connect
 
 - GitHub: [@Niirav213](https://github.com/Niirav213)
-<!-- Add LinkedIn / email / portfolio here -->
+- Linkedin: [Nirav Parmar](https://www.linkedin.com/in/nirav-parmar-bb4b05324/)
+- codeforces: [killer_213](https://codeforces.com/profile/killer_213)
